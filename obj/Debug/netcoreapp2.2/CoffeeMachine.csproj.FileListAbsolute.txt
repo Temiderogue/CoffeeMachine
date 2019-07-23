@@ -1,0 +1,11 @@
+C:\Users\mosto\source\repos\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.csprojAssemblyReference.cache
+C:\Users\mosto\source\repos\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\mosto\source\repos\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\mosto\source\repos\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.AssemblyInfo.cs
+C:\Users\mosto\source\repos\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.deps.json
+C:\Users\mosto\source\repos\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.runtimeconfig.json
+C:\Users\mosto\source\repos\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.runtimeconfig.dev.json
+C:\Users\mosto\source\repos\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.dll
+C:\Users\mosto\source\repos\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.pdb
+C:\Users\mosto\source\repos\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.dll
+C:\Users\mosto\source\repos\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.pdb
