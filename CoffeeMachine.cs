@@ -35,22 +35,9 @@ namespace CoffeeMachine
             }
         }
 
-        public void ChoosePower()
+        public void BoilWater()
         {
-            Console.WriteLine("Выберите мощность: \n1.200\n2.400\n3.600");
-            string number = Console.ReadLine();
-            switch (number)
-            {
-                case "1":
-                    power = 200;
-                    break;
-                case "2":
-                    power = 400;
-                    break;
-                case "3":
-                    power = 600;
-                    break;
-            }
+            Console.WriteLine("Через пару минут коффе будет готов!");
         }
     }
 }

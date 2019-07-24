@@ -9,7 +9,8 @@ namespace CoffeeMachine
             CoffeeMachine coffeeMachine = new CoffeeMachine();
             coffeeMachine.Start();
             coffeeMachine.WaterAmount = 1000;
-            coffeeMachine.ChoosePower();
+            coffeeMachine.BoilWater();
+            Console.ReadKey();
         }
     }
 }
